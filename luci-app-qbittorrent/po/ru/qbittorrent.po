@@ -1,0 +1,26 @@
+msgid "qBittorrent"
+msgstr "qBittorrent"
+
+msgid "Running state"
+msgstr "Статус службы"
+
+msgid "Open Web Interface"
+msgstr "Открыть Web-интерфейс"
+
+msgid "qBittorrent is a cross-platform free and open-source BitTorrent client. Default username & password: admin / adminadmin"
+msgstr "qBittorrent - это кроссплатформенный бесплатный BitTorrent-клиент с открытым исходным кодом. Имя пользователя и пароль по умолчанию: root / rootroot"
+
+msgid "WebUI Listen port"
+msgstr "Порт WebUI"
+
+msgid "Configuration files Path"
+msgstr "Путь папки настроек"
+
+msgid "RUNNING"
+msgstr "включен"
+
+msgid "NOT RUNNING"
+msgstr "выключен"
+
+msgid "Collecting data..."
+msgstr "Применение настроек..."
