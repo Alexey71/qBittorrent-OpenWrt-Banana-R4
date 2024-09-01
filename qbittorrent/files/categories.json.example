@@ -1,0 +1,20 @@
+{
+    "[HDD-4TB2] Загрузки": {
+        "save_path": "/mnt/hdd4tb2/Загрузки"
+    },
+    "[HDD-4TB2] Сериалы": {
+        "save_path": "/mnt/hdd4tb2/Сериалы"
+    },
+    "[HDD-4TB2] Фильмы": {
+        "save_path": "/mnt/hdd4tb2/Фильмы"
+    },
+    "[HDD-4TB1] Загрузки": {
+        "save_path": "/mnt/hdd4tb1/Загрузки"
+    },
+    "[HDD-4TB1] Сериалы": {
+        "save_path": "/mnt/hdd4tb1/Сериалы"
+    },
+    "[HDD-4TB1] Фильмы": {
+        "save_path": "/mnt/hdd4tb1/Фильмы"
+    }
+}
