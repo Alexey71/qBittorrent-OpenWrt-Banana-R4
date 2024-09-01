@@ -1,14 +1,14 @@
-qBittorrent - A BitTorrent client in Qt6
+qBittorrent - BitTorrent клиент на Qt6
 ------------------------------------------
 
-## How to build
+## Как собрать
 
-Enter in your openwrt/package/ or other
+Скопировать openwrt/package/
 
 ### Openwrt official SnapShots
 
 ```shell
-git clone https://github.com/sbwml/openwrt-qBittorrent
-make menuconfig # choose LUCI -> Applications -> luci-app-qbittorrent
-make V=s
+git clone https://github.com/Alexey71/qBittorrent-OpenWrt.git
+make menuconfig # выбрать LUCI -> Applications -> luci-app-qbittorrent
+make -jxx
 ```
