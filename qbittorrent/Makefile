@@ -8,13 +8,11 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=qbittorrent
 PKG_VERSION:=5.1.0
-#PKG_RELEASE=26-08-2024
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://github.com/qbittorrent/qBittorrent.git
 PKG_SOURCE_VERSION:=master
-#PKG_HASH:=e887bba796e1a421b5ff38e40d0d5d5009979d0a6a7204d2e6932b01fcec5e14
 
 PKG_LICENSE:=GPL-2.0+
 PKG_LICENSE_FILES:=COPYING
